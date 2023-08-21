@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/copons-app/static/css/main.fcf8624a.css",
-    "main.js": "/copons-app/static/js/main.c6500db3.js",
+    "main.js": "/copons-app/static/js/main.77dff610.js",
     "static/js/787.b1f34fa1.chunk.js": "/copons-app/static/js/787.b1f34fa1.chunk.js",
-    "static/media/logo.svg": "/copons-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/copons-app/static/media/logo.ad6ec2453a625743b2797aa5ab524d84.svg",
     "index.html": "/copons-app/index.html",
     "main.fcf8624a.css.map": "/copons-app/static/css/main.fcf8624a.css.map",
-    "main.c6500db3.js.map": "/copons-app/static/js/main.c6500db3.js.map",
+    "main.77dff610.js.map": "/copons-app/static/js/main.77dff610.js.map",
     "787.b1f34fa1.chunk.js.map": "/copons-app/static/js/787.b1f34fa1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcf8624a.css",
-    "static/js/main.c6500db3.js"
+    "static/js/main.77dff610.js"
   ]
 }
