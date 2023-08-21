@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const Dashboard = () => {
 
-  const [copySuccess, setCopySuccess] = useState('please click button To copy!')
+  const [copySuccess, setCopySuccess] = useState('Copy Code')
 
   const coponText = 'ABANOUB_400';
 
@@ -29,13 +29,15 @@ const Dashboard = () => {
         </div>
         <div class="container" styleName="background-color:white">
           <h2><b>20% OFF YOUR PURCHASE</b></h2>
-          <p> expire on 31 Aug 2023 </p>
+          <p class="expire"> expire on 31 Aug 2023 </p>
         </div>
         <div class="container">
           <p>Use Promo Code: <span class="promo"> {coponText} </span>
-          <button  onClick={copyCode}>Copy Code</button>
+          <button  onClick={copyCode}>{copySuccess}</button>
           </p> 
-          <p class="expire"> {copySuccess} </p>
+          <h3>
+          <a href="https://www.carrefouregypt.com/mafegy/en/" target="_blank"> Open Carrefour Website </a>
+          </h3>
         </div>
       </div>
 
