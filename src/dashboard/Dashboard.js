@@ -4,7 +4,7 @@ const Dashboard = () => {
 
   const [copySuccess, setCopySuccess] = useState('please click button To copy!')
 
-  const coponText = 'COPON400';
+  const coponText = 'ABANOUB_400';
 
 
   const copyCode = async () => {
